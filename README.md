@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#58A6FF;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#A371F7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#58A6FF;stop-opacity:1" />
-    </linearGradient>
-    <clipPath id="c"><circle cx="100" cy="100" r="90"/></clipPath>
-  </defs>
-  <circle cx="100" cy="100" r="95" fill="none" stroke="url(#g)" stroke-width="3" opacity="0.6"/>
-  <circle cx="100" cy="100" r="98" fill="none" stroke="url(#g)" stroke-width="1" opacity="0.3"/>
-  <image href="https://picsum.photos/seed/devsahil42/400/400.jpg" x="5" y="5" width="190" height="190" clip-path="url(#c)"/>
-</svg>
+# 💫 About Me:
+A Student with BIG D3's
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sommarfagel389&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sommarfagel389&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sommarfagel389&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sommarfagel389&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
