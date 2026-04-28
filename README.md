@@ -34,10 +34,8 @@
 
 <div align="center">
   <a href="https://github.com/Sommarfagel398">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,lua,php,python&perline=4&theme=dark" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,lua,php,python,blender&perline=4&theme=dark" alt="Tech Stack"/>
   </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Clip_Studio_Paint-0f172a?style=for-the-badge&logo=clipstudiopaint&logoColor=38BDF8&labelColor=1e293b" alt="Clip Studio Paint"/>
 </div>
 
 <br>
