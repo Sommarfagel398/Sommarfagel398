@@ -8,11 +8,8 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Sommarfagel398&random=false" alt="Title"/>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=2000&color=94A3B8&center=true&vCenter=true&width=450&lines=A+Student+with+BIG+D3's&random=false" alt="Subtitle"/>
 
 <br><br>
 
