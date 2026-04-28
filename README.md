@@ -8,8 +8,11 @@
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Sommarfagel398&random=false" alt="Title"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&pause=2000&color=94A3B8&center=true&vCenter=true&width=450&lines=A+Student+with+BIG+D3's&random=false" alt="Subtitle"/>
 
 <br><br>
 
@@ -21,9 +24,9 @@
   <img src="https://img.shields.io/badge/-Views-0f172a?style=for-the-badge&logo=eye&logoColor=38BDF8&labelColor=1e293b&color=0f172a"/>
 </a>
 
-<br><br>
+<br>
 
-<img src="https://i.imgur.com/d7W9Sfl.png" width="600" alt="divider" style="opacity:0.3;"/>
+---
 
 </div>
 
@@ -68,10 +71,12 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-  <img src="https://i.imgur.com/d7W9Sfl.png" width="600" alt="divider" style="opacity:0.3;"/>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%"/>
+
+---
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" width="100%"/>
 </div>
