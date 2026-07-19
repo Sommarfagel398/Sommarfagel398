@@ -8,7 +8,7 @@
 <br><br>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=17&duration=2500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=480&lines=A+Student+with+BIG+D3's;with+scrapped+minds+turned+into+fun+ ideas;Lets+dive+into+it" alt="Subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=17&duration=2500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=480&lines=A+Student+with+BIG+D3's;with+scrapped+minds+turned+into+fun+ideas;Lets+dive+into+it" alt="Subtitle"/>
 
 <br>
 
