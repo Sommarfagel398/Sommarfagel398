@@ -38,20 +38,10 @@
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Sommarfagel398">
-          <img src="https://github-readme-stats.vercel.app/api?username=Sommarfagel398&theme=synthwave&hide_border=true&show_icons=true&include_all_commits=false&count_private=false&bg_color=0f0117&title_color=FF2E97&text_color=c8d6e5&icon_color=00FFF7&ring_color=FF2E97" alt="GitHub Stats" height="195"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Sommarfagel398">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sommarfagel398&theme=synthwave&hide_border=true&layout=compact&include_all_commits=false&count_private=false&bg_color=0f0117&title_color=FF2E97&text_color=c8d6e5&langs_count=7" alt="Top Languages" height="195"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Sommarfagel398">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sommarfagel398&hide_border=true&show_icons=true&include_all_commits=false&count_private=false&bg_color=0f0117&title_color=FF2E97&text_color=c8d6e5&icon_color=00FFF7&ring_color=FF2E97&hide_rank=false" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sommarfagel398&hide_border=true&layout=compact&include_all_commits=false&count_private=false&bg_color=0f0117&title_color=FF2E97&text_color=c8d6e5&langs_count=7" alt="Top Languages" width="49%"/>
+  </a>
 
   <br>
 
