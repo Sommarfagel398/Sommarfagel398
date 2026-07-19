@@ -7,10 +7,7 @@
 
 <br><br>
 
-<a href="https://github.com/Sommarfagel398">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=39C5BB&center=true&vCenter=true&width=520&lines=SOMMARFAGEL398;初音+%2F%2F+CODE+MIKU" alt="Title"/>
-</a>
-<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=17&duration=2500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=480&lines=A+Student+with+BIG+D3's;01+coding+past+midnight;Turquoise+ponytails+%26+clean+commits" alt="Subtitle"/>
 
 <br>
