@@ -12,9 +12,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=17&duration=2500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=480&lines=A+Student+with+BIG+D3's;01+coding+past+midnight;Turquoise+ponytails+%26+clean+commits" alt="Subtitle"/>
-
-<br><br>
 
 <a href="https://github.com/Sommarfagel398?tab=followers">
   <img src="https://img.shields.io/badge/-Follow-101820?style=for-the-badge&logo=github&logoColor=39C5BB&labelColor=101820&color=101820"/>
