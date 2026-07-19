@@ -5,9 +5,6 @@
   <img src="https://github.com/Sommarfagel398.png" alt="Avatar" width="140" height="140" style="border-radius:50%; border: 3px solid #ff2e97; box-shadow: 0 0 25px #ff2e97, 0 0 45px #00fff7;"/>
 </a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&width=520&lines=SOMMARFAGEL398;宵闇+%2F%2F+CODE+MAGE" alt="Title"/>
 
 <br>
 
